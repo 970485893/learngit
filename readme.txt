@@ -6,4 +6,4 @@ change sth 2020_05_18_23_04
 
 add from DEV
 
-change by DEV 2nd
+change [conflict by master] by DEV 2nd
